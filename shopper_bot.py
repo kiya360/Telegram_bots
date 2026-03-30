@@ -16,7 +16,7 @@ from telegram.ext import (
 
 # ========== CONFIGURATION ==========
 BOT_TOKEN = "8632072107:AAHIp1ztPQgRRIiyGWXin_6OTV6Pa-PySWo"
-ADMIN_USER_ID = @kiyaadisu  # Your Telegram user ID (integer)
+ADMIN_USER_ID = 2041850357  # Your Telegram user ID (integer)
 GROUP_ID = -1001234567890  # Your group ID (negative number, optional - if set, bot can restrict commands)
 # ===================================
 
